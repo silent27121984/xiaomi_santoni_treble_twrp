@@ -12,7 +12,7 @@ Memory  | 2 GB/3 GB/4 GB
 Shipped Android Version | Android 6.0.1 with MIUI 8
 Storage | 16 GB/32 GB
 MicroSD | Up to 256 GB (Hybrid)
-Battery | 4100 mAh (non-removable)
+Battery | 41000 mAh (non-removable)
 Dimensions | 139.2 x 70 x 8.7 mm
 Display | 720 x 1280 pixels, 5.0" IPS
 Rear Camera  | 13.0 MP, LED flash
