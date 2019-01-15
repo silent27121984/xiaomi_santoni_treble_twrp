@@ -1,0 +1,1 @@
+rm -Rf /home/silent27-4pda/t8/device/xiaomi && cd t8 && git clone https://github.com/silent27121984/xiaomi_santoni_treble_twrp -b 8.1 device/xiaomi
